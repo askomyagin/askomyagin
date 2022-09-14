@@ -1,6 +1,7 @@
-### Welcome to my GitHub profile 👋
-## 22 y.o
-# Education: Higher School of Economics, Faculty of Applied Mathematics and Computer Science
+## Welcome to my GitHub profile 👋
+#### Александр 22 y.o.
+#### Education: 
+Higher School of Economics, Faculty of Applied Mathematics and Computer Science
 I am engaged in frontend development at the junior+ level.
 I’m currently learning javascript, typescript and react. 
 
