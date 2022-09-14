@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub profile 👋
 
 [![codewars](https://www.codewars.com/users/askomyagin/badges/large)](https://www.codewars.com/askomyagin/askomyagin) 
 
