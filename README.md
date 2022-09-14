@@ -1,9 +1,13 @@
-## Welcome to my GitHub profile 👋
-#### Александр 22 y.o.
+<h1 align='center>Welcome to my GitHub profile 👋</h1>
+<h2 align="center">I'm Aleksandr, 22 y.o.</h1> 
+
 #### Education: 
-Higher School of Economics, Faculty of Applied Mathematics and Computer Science
+Higher School of Economics, Faculty of Applied Mathematics and Computer Science.
+<br/>
 I am engaged in frontend development at the junior+ level.
+<br/>
 I’m currently learning javascript, typescript and react. 
+<br/>
 Email: askomyagin@mail.ru
 
 #### Profile on CodeWars:
